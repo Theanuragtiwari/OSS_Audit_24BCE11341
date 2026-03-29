@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Rishi Ranjan | Registration: 24BCE11341
+# Author: Anurag Tiwari| Registration: 24BCE11341
 # Course: Open Source Software | VIT Bhopal
 # Purpose: Display a formatted summary of the Linux system
 # ============================================================
