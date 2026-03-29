@@ -82,7 +82,7 @@ All scripts require only a standard **bash** shell and standard Linux utilities.
  
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/Harshit-Vi/OSS_Audit_24BCE11341.git
+git clone https://github.com/Theanuragtiwari/OSS_Audit_24BCE11341.git
 cd OSS_Audit_24BCE11341
 ```
  
